@@ -1,4 +1,4 @@
-# Zacman
+# Pacman
 
 ### This is a game coded in c++ where you have to eat all the fruits '.' and protect yourself from the moster 'X'. Lets see who makes the highest score.  The moster will keep increasing on the basis of your performamce in the game.  If you score highest, you will be honoured.
 
